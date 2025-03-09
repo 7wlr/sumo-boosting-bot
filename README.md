@@ -12,7 +12,7 @@ Logs in queue's sumo and when the game started it will requeue
 
 2. Install dependencies:
    ```bash
-   npm install mineflayer
+   npm i mineflayer
    ```
 
 3. Update `accounts` in `boost.js` with your usernames.
